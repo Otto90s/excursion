@@ -1,0 +1,50 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second_heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.second_paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-decoration: none;
+}
+
+.third_heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    color: white;
+}
+
+.excursion_footer {
+    text-align: right;
+    color: gray;
+    text-decoration: none;
+}
